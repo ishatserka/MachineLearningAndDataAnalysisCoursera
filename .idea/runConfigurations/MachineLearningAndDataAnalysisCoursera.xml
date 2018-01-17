@@ -13,7 +13,7 @@
     <module name="MachineLearningCoursera" />
     <option name="additionalOptions" value="" />
     <option name="ipnbHost" value="127.0.0.1" />
-    <option name="ipnbPort" value="8888" />
+    <option name="ipnbPort" value="8899" />
     <method />
   </configuration>
 </component>
