@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=D:\Education\GitHub\Coursera\MachineLearningAndDataAnalysisCoursera\venv"
+set "VIRTUAL_ENV=E:\git\MachineLearningAndDataAnalysisCoursera\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

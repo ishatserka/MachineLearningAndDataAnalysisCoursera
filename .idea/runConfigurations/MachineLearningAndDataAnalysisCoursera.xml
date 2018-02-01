@@ -6,14 +6,14 @@
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
     <option name="SDK_HOME" value="" />
-    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningOnMarkedData/week2" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningOnMarkedData/week3" />
     <option name="IS_MODULE_SDK" value="true" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <module name="MachineLearningCoursera" />
     <option name="additionalOptions" value="" />
     <option name="ipnbHost" value="127.0.0.1" />
-    <option name="ipnbPort" value="8899" />
+    <option name="ipnbPort" value="8888" />
     <method />
   </configuration>
 </component>
