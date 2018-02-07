@@ -1,5 +1,9 @@
 
-q
-ALearningOnMarkedData\week1\peer_review_linreg_height_weight.ipynb,a\f\afcff16e40685b3e93604eef33f40ed6cede1689
-[
-+LearningOnMarkedData\week1\c02_w01_02.ipynb,9\c\9c9da928bb1ee825e5de51ae525684f8da5fa7ca
+c
+3LearningOnMarkedData\week3\sklearn.case_part2.ipynb,1\1\1189741c09d471b376731da1e05dd0fffca4ae63
+c
+3LearningOnMarkedData\week3\sklearn.case_part1.ipynb,7\b\7bae6a5334c7fac746ec393319ebe3bc11249d95
+d
+4LearningOnMarkedData\week3\sklearn.grid_search.ipynb,0\9\09e279640fd7d72e2a966944d707e5d783280087
+]
+-LearningOnMarkedData\week3\c02_w03_ex01.ipynb,4\e\4e2c14e3b9cc73057c5ad0a4b7928c4be2457cc2
