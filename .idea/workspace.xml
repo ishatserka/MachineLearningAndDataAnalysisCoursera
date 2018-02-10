@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94039858-32ae-4c92-b984-18df8bb0d82b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02_ans1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02_ans2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02_ans3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03_ans1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03_ans2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/imdb.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/labeledTrainData.tsv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/nnets_answer1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/one_knn.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/task_nn.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week5/winequality-red.csv" />
       <change beforePath="$PROJECT_DIR$/.idea/MachineLearningCoursera.iml" afterPath="$PROJECT_DIR$/.idea/MachineLearningCoursera.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/MachineLearningAndDataAnalysisCoursera.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/MachineLearningAndDataAnalysisCoursera.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09e279640fd7d72e2a966944d707e5d783280087" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/1189741c09d471b376731da1e05dd0fffca4ae63" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e2c14e3b9cc73057c5ad0a4b7928c4be2457cc2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bae6a5334c7fac746ec393319ebe3bc11249d95" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6666a925243745451f8eea8e96b86b2790dce143" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week2/sklearn.cross_validation.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week2/sklearn.cross_validation.ipynb" />
-      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week3/c02_w03_ex01.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week3/c02_w03_ex01.ipynb" />
-      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week3/sklearn.grid_search.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week3/sklearn.grid_search.ipynb" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
+      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex01.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex01.ipynb" />
+      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex02.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex02.ipynb" />
+      <change beforePath="$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.rf_vs_gb.ipynb" afterPath="$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.rf_vs_gb.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,6 +47,7 @@
       <find>print</find>
       <find>n_iter</find>
       <find>tol</find>
+      <find>percentError</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,6 +91,11 @@
         <option value="$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.rf_vs_gb.ipynb" />
         <option value="$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex02.ipynb" />
         <option value="$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.decision_trees.ipynb" />
+        <option value="$PROJECT_DIR$/LearningOnMarkedData/week5/task_nn.ipynb" />
+        <option value="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02.ipynb" />
+        <option value="$PROJECT_DIR$/LearningOnMarkedData/week5/one_knn.py" />
+        <option value="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03.ipynb" />
+        <option value="$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03_ans2.txt" />
       </list>
     </option>
   </component>
@@ -112,7 +127,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -128,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,17 +158,28 @@
               <item name="MachineLearningAndDataAnalysisCoursera" type="462c0819:PsiDirectoryNode" />
               <item name="LearningOnMarkedData" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MachineLearningAndDataAnalysisCoursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearningAndDataAnalysisCoursera" type="462c0819:PsiDirectoryNode" />
+              <item name="LearningOnMarkedData" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearningAndDataAnalysisCoursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearningAndDataAnalysisCoursera" type="462c0819:PsiDirectoryNode" />
+              <item name="LearningOnMarkedData" type="462c0819:PsiDirectoryNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LearningOnMarkedData/week4" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -166,7 +195,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.one_knn">
+    <configuration name="one_knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningOnMarkedData/week5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearningCoursera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningOnMarkedData/week5/one_knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,13 +232,15 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Jupyter Notebook.MachineLearningAndDataAnalysisCoursera" />
+      <item index="1" class="java.lang.String" itemvalue="Python.one_knn" />
+      <item index="2" class="java.lang.String" itemvalue="Jupyter Notebook.MachineLearningAndDataAnalysisCoursera" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.one_knn" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -223,10 +272,11 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18018967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18018967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.50421494" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32540542" sideWeight="0.49578503" order="2" side_tool="false" content_ui="tabs" />
@@ -240,7 +290,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -248,74 +297,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week3/w03_01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week3/w03_01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week3/w03_01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/introduction_into_numpy.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/video_ex.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/matrix_operations.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/introduction_into_numpy.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate.bat" />
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/introduction_into_numpy.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/video_ex.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MathAndPython/week2/vector_operations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -518,20 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex01.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.rf_vs_gb.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week2/c02_w02_ex02.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -553,17 +533,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex02.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.decision_trees.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/nnets_answer1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/c02_w04_ex02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week4/sklearn.rf_vs_gb.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1864" column="0" lean-forward="false" selection-start-line="1864" selection-start-column="0" selection-end-line="1864" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03_ans1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03_ans2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/c02_w05_ex03.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/task_nn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week5/one_knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
