@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/LearningOnMarkedData/week2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LearningOnMarkedData/week3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LearningOnMarkedData/week4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SearchOfDataStructure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SearchOfDataStructure/week2" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (MachineLearningAndDataAnalysisCoursera)" jdkType="Python SDK" />
