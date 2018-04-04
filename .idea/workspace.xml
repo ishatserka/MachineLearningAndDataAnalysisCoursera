@@ -2,12 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94039858-32ae-4c92-b984-18df8bb0d82b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a28a1aba1236dcf06021736e5fae7a47f27cd3c" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8aa64f39840920cb0e7ccf5aa39349a4fa3a8d8e" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c65242c25b37078ee45cdb21d5995c6a7688e876" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb" afterPath="$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/MachineLearningAndDataAnalysisCoursera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/MachineLearningAndDataAnalysisCoursera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a28a1aba1236dcf06021736e5fae7a47f27cd3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8aa64f39840920cb0e7ccf5aa39349a4fa3a8d8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c65242c25b37078ee45cdb21d5995c6a7688e876" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-3.4.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/_matutils.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/bleicorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/bleicorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/csvcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/csvcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/hashdictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/hashdictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/indexedcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/indexedcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/lowcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/lowcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/malletcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/malletcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/mmcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/mmcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/sharded_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/sharded_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/svmlightcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/svmlightcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/textcorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/textcorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/ucicorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/ucicorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/wikicorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/wikicorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/interfaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/matutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/matutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/atmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/atmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/basemodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/basemodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/coherencemodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/coherencemodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.cp36-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.cp36-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/hdpmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/hdpmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/keyedvectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/keyedvectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_dispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_dispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamulticore.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamulticore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldaseqmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldaseqmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/logentropy_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/logentropy_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_dispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_dispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsimodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsimodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/normmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/normmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/phrases.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/phrases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/rpmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/rpmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/tfidfmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/tfidfmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.cp36-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.cp36-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/dtmmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/dtmmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/fasttext.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/fasttext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/ldamallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/ldamallet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/ldavowpalwabbit.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/ldavowpalwabbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/varembed.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/varembed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/wordrank.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/wrappers/wordrank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/nosy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/nosy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/porter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/porter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/glove2word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/glove2word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online_lemma.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online_lemma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online_nodebug.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online_nodebug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wikicorpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wikicorpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec2tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec2tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec_standalone.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec_standalone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/docsim.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/docsim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/bm25.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/bm25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/commons.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/commons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/pagerank_weighted.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/pagerank_weighted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/syntactic_unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/syntactic_unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/textcleaner.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/summarization/textcleaner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/svd_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/svd_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_aggregation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_aggregation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_atmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_atmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_big.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_big.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_coherencemodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_coherencemodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_hashdictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_hashdictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_direct_confirmation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_direct_confirmation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_doc2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_doc2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_dtm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_dtm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_fasttext_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_fasttext_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_glove2word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_glove2word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_hdpmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_hdpmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_indirect_confirmation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_indirect_confirmation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_keras_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_keras_integration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldamallet_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldamallet_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldamodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldamodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldaseqmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldaseqmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldavowpalwabbit_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldavowpalwabbit_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lee.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_logentropy_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_logentropy_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lsimodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lsimodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_miislita.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_miislita.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_normmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_normmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_phrases.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_phrases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_rpmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_rpmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_sharded_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_sharded_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarities.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarity_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarity_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_summarization.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_summarization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_text_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_text_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tfidfmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tfidfmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tmdiff.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tmdiff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_varembed_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_varembed_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_wordrank_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_wordrank_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/aggregation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/aggregation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/direct_confirmation_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/direct_confirmation_measure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/indirect_confirmation_measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/indirect_confirmation_measure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/probability_estimation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/probability_estimation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/text_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/text_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +153,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gensim.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gensim.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/gensim.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -27,11 +162,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c03_w04_ex01.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="c03_w04_ex01.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="24" />
+              <selected id="66" />
             </state>
           </provider>
         </entry>
@@ -105,6 +240,7 @@
         <option value="$PROJECT_DIR$/SearchOfDataStructure/week3/c03_w03_ex01.ipynb" />
         <option value="$PROJECT_DIR$/SearchOfDataStructure/week4/gensim.ipynb" />
         <option value="$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task1.txt" />
+        <option value="$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task2.txt" />
         <option value="$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb" />
       </list>
     </option>
@@ -139,22 +275,10 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,13 +301,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SearchOfDataStructure/week2" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SearchOfDataStructure/week2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -204,6 +329,7 @@
   </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearningCoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -214,25 +340,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearningCoursera" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningOnMarkedData/week2/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.MachineLearningAndDataAnalysisCoursera" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+    <list>
+      <item itemvalue="Jupyter Notebook.MachineLearningAndDataAnalysisCoursera" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <list>
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -258,27 +380,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12908325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32756758" sideWeight="0.50421494" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32540542" sideWeight="0.49578503" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14910433" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50421494" side_tool="true" weight="0.32756758" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49578503" weight="0.32540542" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972974" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -294,23 +415,8 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/introduction_into_numpy.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathAndPython/week2/video_ex.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MathAndPython/week2/vector_operations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -320,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MathAndPython/week3/answer_w03_01.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -341,11 +447,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MathAndPython/week4/sample_distribution_evaluation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -355,11 +457,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/c02_w02_01.ipynb" />
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/c02_w01_01.ipynb">
@@ -384,11 +482,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/advertising.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MathAndPython/week2/matrix_operations.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -400,11 +494,7 @@
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/2.txt" />
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/1.txt" />
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/4.txt" />
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week1/c02_w01_02.ipynb">
@@ -451,25 +541,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week2/test.py" />
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week2/pa_metrics_problem1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week2/pa_metrics_problem2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LearningOnMarkedData/week2/pa_metrics_problem3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/model_selection/_split.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -481,14 +559,14 @@
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/linear_model/stochastic_gradient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
-          <caret line="1342" column="71" lean-forward="false" selection-start-line="1342" selection-start-column="71" selection-end-line="1342" selection-end-column="71" />
+          <caret line="1342" column="71" selection-start-line="1342" selection-start-column="71" selection-end-line="1342" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/feature_extraction/dict_vectorizer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-159">
-          <caret line="135" column="8" lean-forward="false" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -564,22 +642,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week2/pca_answer1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week2/pca_answer2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/tokenize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="451" column="0" lean-forward="false" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
         </state>
       </provider>
     </entry>
@@ -597,25 +671,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/gensim.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/cooking_LDA_pa_task3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/c03_w04_ex01.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SearchOfDataStructure/week4/gensim.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
+          <selected id="66" />
         </state>
       </provider>
     </entry>

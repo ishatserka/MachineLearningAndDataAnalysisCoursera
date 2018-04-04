@@ -1,6 +1,10 @@
 
 d
 4SearchOfDataStructure\week4\cooking_LDA_pa_task1.txt,c\6\c65242c25b37078ee45cdb21d5995c6a7688e876
+d
+4SearchOfDataStructure\week4\cooking_LDA_pa_task2.txt,0\f\0f84151db85555a77b7b32b5e78b0044b107f512
+d
+4SearchOfDataStructure\week4\cooking_LDA_pa_task3.txt,c\7\c79c27eb5f6b28ed7b1ab37765de3abed61fdff2
 X
 (SearchOfDataStructure\week4\gensim.ipynb,3\a\3a28a1aba1236dcf06021736e5fae7a47f27cd3c
 ^

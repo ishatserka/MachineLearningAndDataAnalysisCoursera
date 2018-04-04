@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="MachineLearningAndDataAnalysisCoursera" type="Python.Ipnb" factoryName="Jupyter Notebook" editBeforeRun="true">
+    <module name="MachineLearningCoursera" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
@@ -10,10 +11,9 @@
     <option name="IS_MODULE_SDK" value="true" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
-    <module name="MachineLearningCoursera" />
     <option name="additionalOptions" value="" />
     <option name="ipnbHost" value="127.0.0.1" />
-    <option name="ipnbPort" value="8877" />
+    <option name="ipnbPort" value="8888" />
     <method />
   </configuration>
 </component>
